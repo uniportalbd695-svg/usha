@@ -1,0 +1,6 @@
+{
+  "name": "Usha — Date Invitation",
+  "description": "An interactive pink-themed date invitation landing page for Usha with live particle art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
